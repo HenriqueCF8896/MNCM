@@ -11,6 +11,7 @@ Exercícios práticos e estudos de caso.
 
 Materiais de referência (slides, artigos, livros).
 
+# Teoria
 O curso é dividido em módulos que abordam desde fundamentos matemáticos até aplicações avançadas:
 
 Fundamentos de Métodos Numéricos
