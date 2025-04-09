@@ -3,7 +3,7 @@ Bem-vindo ao repositório Métodos Numéricos em Ciências Mecânicas! Este proj
 
 Aqui você encontrará:
 
-Implementações de algoritmos numéricos em Python e MATLAB.
+Implementações de algoritmos numéricos em Python, MATLAB, FORTRAN e C.
 
 Jupyter Notebooks com explicações interativas.
 
