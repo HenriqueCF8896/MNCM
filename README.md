@@ -1,4 +1,4 @@
-# MNCM
+# MNCM - APRESENTAÇÃO
 Bem-vindo ao repositório Métodos Numéricos em Ciências Mecânicas! Este projeto visa fornecer recursos didáticos, códigos exemplares e materiais de apoio para um curso introdutório de Métodos Numéricos aplicados a problemas em Engenharia Mecânica. Desenvolvido por estudantes e professores da Universidade de Brasília (UnB), o repositório combina teoria, prática computacional e aplicações reais, preparando alunos e profissionais para resolver desafios complexos em áreas como dinâmica de fluidos, análise estrutural, transferência de calor e otimização de sistemas mecânicos.
 
 Aqui você encontrará:
