@@ -12,3 +12,16 @@ O código está dividido nas seguintes seções:
 ```matlab
 global y0;
 y0 = 0;
+```
+Define a condição inicial global y(0) = 0 que é usada por todas as tarefas numéricas.
+### 2. Função RK4
+```matlab
+function [times, y_values] = rk4(ode_func, y0, t0, dt, num_steps, varargin)
+```
+Função genérica que resolve uma EDO usando o método RK4. Recebe:
+ode_func: função da EDO
+y0: valor inicial
+t0: tempo inicial
+dt: passo de tempo
+num_steps: número de passos
+varargin: argumentos opcionais (usado para passar o Res)
