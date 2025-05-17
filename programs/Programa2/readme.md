@@ -58,7 +58,26 @@ equations = [
         'f': lambda x: -0.5*x**2 + 2.5*x + 4.5,
         'interval': (5, 10)
     },
-    # ... (outras equações)
+   {
+        'name': '5x³ -5x² +6x -2',
+        'f': lambda x: 5*x**3 -5*x**2 +6*x -2,
+        'interval': (0, 1)
+    },
+    {
+        'name': '-25+82x-90x²+44x³-8x⁴+0.7x⁵',
+        'f': lambda x: -25 +82*x -90*x**2 +44*x**3 -8*x**4 +0.7*x**5,
+        'interval': (0.5, 1)
+    },
+    {
+        'name': 'sin(x) - x³',
+        'f': lambda x: math.sin(x) - x**3,
+        'interval': (0.5, 1)
+    },
+    {
+        'name': 'ln(x⁴) - 0.7',
+        'f': lambda x: math.log(x**4) - 0.7,
+        'interval': (0.5, 2)
+    }
 ]
 ```
 Cada equação possui:
